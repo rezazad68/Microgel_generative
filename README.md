@@ -13,3 +13,9 @@ Our study introduces a pioneering algorithm that harnesses the density distribut
 ## Deep Generative Overview
 ![Density based clustering](https://github.com/rezazad68/Microgel_generative/blob/main/images/microgel_method_cvae.png)
 
+#### Run
+Please execute "sample_selection_demo.m" file to observe the algorithm in action for sample selection. </br>
+Please run "generative_method" for training the CVAE model. the notebook file includes the detailed information.
+
+
+
